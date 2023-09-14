@@ -9,10 +9,9 @@ micros:
       env:
         - name: TELEGRAM_BOT_TOKEN
 
-    primary: true
+    
     commands:
-      - npm run build
+      - npm start
     include:
       - dist
-    run: node dist/index.js
-    dev: npm run dev
+    run: node index.js

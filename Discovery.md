@@ -1,6 +1,6 @@
 ---
-app_name: medafNode
-tagline: this isatest
+app_name: medafApp
+tagline: this is test elment for dev api
 ---
 
 
