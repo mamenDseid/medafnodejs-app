@@ -128,3 +128,9 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+
+
+detalogToken= WAwFgWtd_esmnzPz2kkauFVFYKEpVJmXN2VZdXHox
+
+curl -fsSL https://deta.space/assets/space-cli.sh | sh
+export PATH="/home/gitpod/.detaspace/bin:$/workspace/medafnodejs-app"
