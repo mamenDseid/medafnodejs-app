@@ -129,7 +129,7 @@ dist
 .yarn/install-state.gz
 .pnp.*
 
-
+tgToken= 6115601989:AAHgS0ya7kb02vBP9MUZlJA0wlXKB1c5n6U
 detalogToken= WAwFgWtd_esmnzPz2kkauFVFYKEpVJmXN2VZdXHox
 
 curl -fsSL https://deta.space/assets/space-cli.sh | sh
